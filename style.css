@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.principal {
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    height: 50%;
+    width: 50%;
+    align-items: center;
+}
+
+.contenido {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+h3 {
+    color: green;
+}
